@@ -1,0 +1,84 @@
+PYTHON...
+
+ OPERATORS:
+   
+   UNARY
+   BINARY
+   TERNARY
+
+ARITHMETIC OPERATOR:
+ 
+ ADDITION +
+ SUBTRACTION -
+ DIVISION /
+ MULTIPLICATION *
+ MODULO %
+ FLOOR DIVISION //
+ POWER OPERATOR **
+
+RELATIONAL OR COMPARISION OPERATOR: (YES\NO):
+ 
+ >
+ <
+ >=
+ <=
+ ==
+ !=
+
+LOGICAL OPERATOR:
+
+ RANGE - AND
+   1<= N <=100
+ INVERSE - NOT
+ OPTIONS - OR
+
+ASSIGNMENT OPERATOR:
+ 
+ =
+ +=
+ -=
+ *=
+ /=
+ %=
+ //=
+
+BITWISE:
+  BIT-0 & 1
+
+AND
+ 
+ -ANSWER WILL BE IN VALUES.
+ -7  - 0111
+ -12 - 1100
+ - & - 0100 -> 4
+
+OR
+
+ 4 | 5 -> 5
+ 
+XOR (^)
+
+ - IF ITS SAME ANS - 0
+ - IF ITS DIFFERENT -> 1
+ 
+4^5
+ 7 -> 0111
+ 12-> 1100 
+      1011 = 11
+
+LEFT & RIGHT SHIFT
+ 
+ N << X OR N >> N
+
+n = int(input())
+print((n>>2)-1)
+
+DECISION MAKING STATEMENTS:
+ 
+ - IF
+   SYNTAX
+         if(condition):
+             statement 1
+         print()
+       must to be happen
+
